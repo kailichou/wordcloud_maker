@@ -2,7 +2,8 @@
 This app can easily create new wordcloud picture.
 
 
-## Dependencies
+## Package Dependencies
 - wordcloud
 - streamlit
 - langdetect
+- numpy
